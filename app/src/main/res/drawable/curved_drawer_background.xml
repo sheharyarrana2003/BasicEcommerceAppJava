@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F8C9C9"/> <!-- Background color of the drawer -->
+    <corners android:bottomRightRadius="15dp"
+        android:topRightRadius="15dp"
+        /> <!-- Adjust the radius as needed -->
+    <padding
+        android:right="16dp"
+        android:top="0dp"
+        />
+</shape>
